@@ -1,3 +1,6 @@
+
+![Twitter Clone](./screenshot.png)
+
 ## Twitter Clone
 
 Este projeto é desenvolvido com  [React.js](https://github.com/facebook/create-react-app) e foi apresentado na aula de UI Clone da 
